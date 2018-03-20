@@ -1,1 +1,0 @@
-# hyperledger-fabric-insurance-app
