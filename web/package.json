@@ -43,7 +43,7 @@
     "lodash": "4.17.4",
     "moment": "2.18.1",
     "moment-timezone": "0.5.13",
-    "morgan": "1.8.2",
+    "morgan": "1.9.1",
     "prop-types": "15.5.10",
     "pug": "2.0.0-rc.4",
     "react": "15.6.1",
